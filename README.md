@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | MERN Stack | React.js | Node.js
 
-I'm a passionate developer building responsive, scalable fullstack web applications using the MERN stack. I love solving real-world problems, designing clean UI, and learning cutting-edge technologies.
+I'm a passionate developer focused on building responsive and scalable web applications. I enjoy solving real-world problems through clean code, strong architecture, and a great user experience. I'm currently diving deeper into modern technologies like GraphQL, Tailwind CSS, and Agentic AI.
 
 ---
 
@@ -10,16 +10,16 @@ I'm a passionate developer building responsive, scalable fullstack web applicati
 
 - **Languages:** JavaScript, TypeScript, Python
 - **Frontend:** React.js, Tailwind CSS, Material UI, HTML5, CSS3
-- **Backend:** Node.js, Express.js, MongoDB, REST API
-- **Dev Tools:** Git, GitHub, Postman, Vercel, Railway, MongoDB Compass
-- **Other:** JWT Auth, MVC, Role-Based Access, Cloudinary
+- **Backend:** Node.js, Express.js, MongoDB, RESTful APIs
+- **Tools & Platforms:** Git, GitHub, Postman, Railway, Vercel, MongoDB Compass
+- **Other:** JWT Auth, MVC Architecture, Role-Based Access Control, Cloudinary
 
 ---
 
 ## 🧩 Featured Projects
 
 ### 🔹 Beestore - Fullstack E-Commerce  
-🛍️ A complete MERN-based e-commerce app for users, sellers, and admins.  
+🛍️ A complete MERN-based e-commerce platform with user, seller, and admin roles.  
 🔗 [Live App](https://bee-store.up.railway.app)  
 📁 [Client Repo](https://github.com/arjun-sureshh/BeeStore-Client-Side)  
 📁 [Server Repo](https://github.com/arjun-sureshh/BeeStore-Server-Side)
@@ -27,21 +27,21 @@ I'm a passionate developer building responsive, scalable fullstack web applicati
 ---
 
 ### 🔹 Quiz App  
-🧠 A React quiz game with real-time scoring, progress tracking, and high score leaderboard.  
+🧠 React quiz game with live score tracking, high score leaderboard, and API-based questions.  
 🔗 [Live App](https://quiz-rho-hazel.vercel.app)  
 📁 [GitHub Repo](https://github.com/arjun-sureshh/Quiz)
 
 ---
 
 ### 🔹 Tic Tac Toe  
-🎮 Classic React-based Tic Tac Toe game with animated winner popup and styled UI.  
+🎮 Classic React game with animated winner popup and clean UI.  
 🔗 [Live App](https://tic-tac-toe-eight-eta-63.vercel.app)  
 📁 [GitHub Repo](https://github.com/arjun-sureshh/Tic-Tac-Toe)
 
 ---
 
 ### 🔹 Memory Game  
-🧩 React class-based memory card game with timer, move counter, and feedback animations.  
+🧩 React class-based memory card game with move counter and real-time feedback.  
 🔗 [Live Demo](https://memory-game-snowy-nine.vercel.app)  
 📁 [GitHub Repo](https://github.com/arjun-sureshh/MemoryGame)
 
@@ -49,19 +49,19 @@ I'm a passionate developer building responsive, scalable fullstack web applicati
 
 ## 📚 Currently Learning
 
-- 🔍 **GraphQL** – Query optimization, Apollo integration  
-- 🎨 **Tailwind CSS** – Fast, utility-first responsive design  
-- 🤖 **Agentic AI** – Exploring LLM-based autonomous agents and workflow systems
+- 🔍 **GraphQL** – Query optimization and flexible schema design  
+- 🎨 **Tailwind CSS** – Utility-first responsive design framework  
+- 🤖 **Agentic AI** – Exploring LLM-powered autonomous workflows
 
 ---
 
 ## 📬 Contact Me
 
 **Arjun Suresh**  
-📧 arjun410@gmail.com  
+📧 arjunsuresh410@gmail.com  
 📍 Perumbavoor, Kerala, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/arjun-suresh)
+🔗 [LinkedIn](https://www.linkedin.com/in/arjun-sureshh/)
 
 ---
 
-> 💡 Actively seeking opportunities in fullstack development and open to collaboration.
+> 💡 Actively open to fullstack opportunities, freelance projects, and collaborations.
